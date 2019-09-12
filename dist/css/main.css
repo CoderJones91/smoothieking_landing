@@ -214,88 +214,96 @@ input[type="text"]::placeholder {
   animation: ease-in-out;
   transition: 0.5s; }
 
-@media screen and (max-width: 667px) {
-  .navbar-brand {
-    width: 50%; }
-  .navbar-nav li {
-    text-align: center; }
-  #hero-section {
-    height: 500px; }
-  #hero-section .dark-overlay {
-    min-height: 100%; }
-  #hero-section h1 {
-    font-size: 2.2rem;
-    margin-top: 11vh; }
-  #hero-section h1 .in-town {
-    margin-bottom: 0.5rem; }
-  .subscribe {
-    height: initial; }
-  #sub .row {
-    display: block; }
-  .subscribe h2 {
-    font-size: 1.7rem;
-    padding-bottom: 1rem !important; }
-  .subscribe h2 .news {
-    display: block; }
-  input[type="text"] {
-    margin: auto auto 0.4rem auto; }
-  #sub .btn {
-    width: 50%;
-    margin: auto;
-    margin-top: 0.9rem; }
-  #about {
-    height: initial; }
-  #about .features .images {
-    display: flex;
-    flex-wrap: wrap; }
-  #about .features .green {
-    width: 100%; }
-  h4.stype {
-    margin-bottom: 2rem !important; }
-  #contact h2 {
-    font-size: 1.8rem; }
-  #contact .contacts {
-    display: grid;
-    grid-template-columns: auto;
-    grid-row-gap: 2rem; } }
-
-@media screen and (max-width: 375px) {
-  .navbar-brand {
-    width: 50%; }
-  #hero-section {
-    height: 88vh; }
-  #hero-section h1 {
-    font-size: 2.2rem;
-    margin-top: 11vh; }
-  #hero-section h1 .in-town {
-    margin-bottom: 0.5rem; }
-  .subscribe {
-    height: initial; }
-  #sub .row {
-    display: block; }
-  .subscribe h2 {
-    font-size: 1.7rem;
-    padding-bottom: 1rem !important; }
-  .subscribe h2 .news {
-    display: block; }
-  input[type="text"] {
-    margin: auto auto 0.4rem auto; }
-  #sub .btn {
-    width: 50%;
-    margin: auto;
-    margin-top: 0.9rem; }
-  #about {
-    height: initial; }
-  #about .features .images {
-    display: flex;
-    flex-wrap: wrap; }
-  #about .features .green {
-    width: 100%; }
-  h4.stype {
-    margin-bottom: 2rem !important; }
-  #contact h2 {
-    font-size: 1.8rem; }
-  #contact .contacts {
-    display: grid;
-    grid-template-columns: auto;
-    grid-row-gap: 2rem; } }
+  @media screen and (max-width: 667px) {
+    .navbar-brand {
+      width: 50%; }
+    .navbar-nav li {
+      text-align: center; }
+    #hero-section {
+      height: 500px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: initial;
+      background-attachment: initial; }
+    #hero-section .dark-overlay {
+      min-height: 100%; }
+    #hero-section h1 {
+      font-size: 2.2rem;
+      margin-top: 11vh; }
+    #hero-section h1 .in-town {
+      margin-bottom: 0.5rem; }
+    .subscribe {
+      height: initial; }
+    #sub .row {
+      display: block; }
+    .subscribe h2 {
+      font-size: 1.7rem;
+      padding-bottom: 1rem !important; }
+    .subscribe h2 .news {
+      display: block; }
+    input[type="text"] {
+      margin: auto auto 0.4rem auto; }
+    #sub .btn {
+      width: 50%;
+      margin: auto;
+      margin-top: 0.9rem; }
+    #about {
+      height: initial; }
+    #about .features .images {
+      display: flex;
+      flex-wrap: wrap; }
+    #about .features .green {
+      width: 100%; }
+    h4.stype {
+      margin-bottom: 2rem !important; }
+    #contact h2 {
+      font-size: 1.8rem; }
+    #contact .contacts {
+      display: grid;
+      grid-template-columns: auto;
+      grid-row-gap: 2rem; } }
+  
+  @media screen and (max-width: 375px) {
+    .navbar-brand {
+      width: 50%; }
+    #hero-section {
+      height: 88vh;
+      }
+    #hero-section h1 {
+      font-size: 2.2rem;
+      margin-top: 11vh; }
+    #hero-section h1 .in-town {
+      margin-bottom: 0.5rem; }
+    .subscribe {
+      height: initial; }
+    #sub .row {
+      display: block; }
+    .subscribe h2 {
+      font-size: 1.7rem;
+      padding-bottom: 1rem !important; }
+    .subscribe h2 .news {
+      display: block; }
+    input[type="text"] {
+      margin: auto auto 0.4rem auto; }
+    #sub .btn {
+      width: 50%;
+      margin: auto;
+      margin-top: 0.9rem; }
+    #about {
+      height: initial; }
+    #about .features .images {
+      display: flex;
+      flex-wrap: wrap; }
+    #about .features .green {
+      width: 100%; }
+    h4.stype {
+      margin-bottom: 2rem !important; }
+    #contact h2 {
+      font-size: 1.8rem; }
+    #contact .contacts {
+      display: grid;
+      grid-template-columns: auto;
+      grid-row-gap: 2rem; } }
+      
+      
+  
