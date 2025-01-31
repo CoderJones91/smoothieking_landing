@@ -8,7 +8,16 @@ A simple landing page project using PHPMailer involves creating a basic website 
 
 ### Built With
 
-PHPMailer
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### View Site
@@ -20,3 +29,4 @@ PHPMailer
 
 Anthony Jones
 [@aCoderJones](https://acoderjones.world/)
+[LinkedIn](https://www.linkedin.com/in/coderjones/)
