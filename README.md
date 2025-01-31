@@ -1,4 +1,5 @@
-# Smoothie King Landing Page w/ Email Functionality
+<a id="readme-top"></a>
+# Smoothie King Landing Page w/ Email Functionality 
 Simple landing and thank you page with email functionality using PHPMailer
 
 ## Description
@@ -8,6 +9,7 @@ A simple landing page project using PHPMailer involves creating a basic website 
 
 ### Built With
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -16,8 +18,6 @@ A simple landing page project using PHPMailer involves creating a basic website 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### View Site
@@ -30,3 +30,5 @@ A simple landing page project using PHPMailer involves creating a basic website 
 Anthony Jones
 [@aCoderJones](https://acoderjones.world/)
 [LinkedIn](https://www.linkedin.com/in/coderjones/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
