@@ -1,49 +1,22 @@
-# Project Title
-
-Simple overview of use/purpose.
+# Smoothie King Landing Page w/ Email Functionality
+Simple landing and thank you page with email functionality using PHPMailer
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple landing page project using PHPMailer involves creating a basic website that collects user information (like their name and email) and sends it to an email address for further processing. The PHPMailer library is used to handle the process of sending the email securely and reliably.
 
-## Getting Started
 
-### Dependencies
+### Built With
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+PHPMailer
 
-### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+### View Site
 
-### Executing program
+@ (https://smoothieking.rebrealdev.com/)
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
-## Help
+## Author
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Anthony Jones
+[@aCoderJones](https://acoderjones.world/)
