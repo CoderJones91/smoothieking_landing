@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# Smoothie King Landing Page w/ Email Functionality 
+# Smoothie King Landing Page w/ Email Functionality &#128513;
 Simple landing and thank you page with email functionality using PHPMailer
 
 ## Description
@@ -15,7 +15,7 @@ A simple landing page project using PHPMailer involves creating a basic website 
 
 ### View Site
 
-@ (https://smoothieking.rebrealdev.com/)
+@(https://smoothieking.rebrealdev.com/)
 
 
 ## Author
