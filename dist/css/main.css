@@ -128,7 +128,8 @@ input[type="text"]::placeholder {
 #about .features .green {
   width: 60%;
   border-radius: 2rem;
-  margin: auto; }
+  margin: auto;
+  overflow: hidden; }
 
 .feats {
   display: grid; }
@@ -214,13 +215,25 @@ input[type="text"]::placeholder {
   animation: ease-in-out;
   transition: 0.5s; }
 
+
+ img.green {
+    transform-origin: center;
+    transition: transform .30s, visibility .30s ease-in;
+}
+
+/* The Transformation */
+img.green:hover {
+    transform: scale3d(1.5, 1.5, 1.5);
+} 
+
+
   @media screen and (max-width: 667px) {
     .navbar-brand {
       width: 50%; }
     .navbar-nav li {
       text-align: center; }
     #hero-section {
-      height: 500px;
+      
       background-size: cover;
       background-position: center;
       background-repeat: initial;
@@ -248,7 +261,8 @@ input[type="text"]::placeholder {
       margin: auto;
       margin-top: 0.9rem; }
     #about {
-      height: initial; }
+      height: initial;
+      padding: 3rem !important; }
     #about .features .images {
       display: flex;
       flex-wrap: wrap; }
@@ -303,7 +317,11 @@ input[type="text"]::placeholder {
     #contact .contacts {
       display: grid;
       grid-template-columns: auto;
-      grid-row-gap: 2rem; } }
+      grid-row-gap: 2rem; } 
       
-      
-  
+      img.dj {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: inherit;
+}
+      }
